@@ -1,9 +1,10 @@
 {
     "verification":"ee322fd53f787b2176",
+    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/cexplorer.io/main/examples/meta.json",
     "info": {
         "url_png_icon_64x64": "http(s) url to pool icon; png format; not animated; max 40kb",
         "url_png_logo": "http(s) url to pool logo; png format; not animated; max 50kb",
-        "location": "Athens, Grece",
+        "location": "London, England",
         "social": {
             "twitter_handle": "cexplorer_io",
             "telegram_handle": "cexplorer_io",
@@ -19,14 +20,14 @@
         "company": {
             "name": "Company Name",
             "addr": "Street, Number",
-            "city": "",
-            "country": "",
-            "company_id": "",
-            "vat_id": ""
+            "city": "London",
+            "country": "England",
+            "company_id": "123456789",
+            "vat_id": "GB123456789"
         },
         "about": {
             "me": "...",
-            "server": "",
+            "server": "Raspberry Pi Hosted at my Home in London 100MB up/down, solar energy.",
             "company": "..."
         }
     }
